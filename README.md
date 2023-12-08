@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Laravel, PHP, Javascript, Python**
 
-- 📫 How to reach me **Boukhatem.ayoub.22@gmail.com**
+- 📫 How to reach me **ayb.boukhatem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
