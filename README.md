@@ -5,8 +5,6 @@
 
 <img align="right" width="400" src="https://github.com/BoukhaAyo/BoukhaAyo/assets/103447604/87fa2430-8cee-4203-800f-a77861c97150"  alt="Coding Image" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boukhaayo&label=Profile%20views&color=0e75b6&style=flat" alt="boukhaayo" /> </p>
-
 - 🌱 I’m currently learning **Java, Spring boot, Angular,TypeScript**
 
 - 💬 Ask me about **React, Laravel, PHP, Javascript, Python**
