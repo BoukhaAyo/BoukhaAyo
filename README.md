@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm ! Boukhatem Ayoub</h1>
 <h3 align="center">A passionate Full-stack web developer from Morocco</h3>
 
-
-<img align="right" width="400" src="https://github.com/BoukhaAyo/BoukhaAyo/assets/103447604/87fa2430-8cee-4203-800f-a77861c97150"  alt="Coding Image" />
-
 - 🌱 I’m currently learning **Java, Spring boot, Angular,TypeScript**
 
 - 💬 Ask me about **React, Laravel, PHP, Javascript, Python**
