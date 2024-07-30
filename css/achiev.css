@@ -1,0 +1,13 @@
+.Achiev p {
+    margin-top: -48px;
+    margin-bottom: 0;
+    background: #1a1a1a;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 13px;
+}
+
+.Achiev a img {
+    width: 100%;
+    border-radius: 4px;
+}

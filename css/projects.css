@@ -1,0 +1,84 @@
+/* start design the cards content the images ... of the projects */
+:root {
+	--main-back-color: #7f828c12;
+}
+
+.projects {
+	background: #5b5c601a;
+	width: 88%;
+	border-radius: 7px;
+	padding: 13px;
+}
+
+/* start design programming lang btn */
+.lang_prog {
+	padding: 1px 9px;
+	border: unset;
+	border-radius: 11px;
+	color: #e8e8e8;
+	z-index: 1;
+	background: #212121;
+	position: relative;
+	font-weight: 1000;
+	font-size: 14px;
+	-webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	transition: all 250ms;
+	overflow: hidden;
+}
+
+.lang_prog::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 0;
+	background-color: #e8e8e8;
+	z-index: -1;
+	-webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	transition: all 0.4s;
+}
+
+.lang_prog:hover {
+	color: #5b5c60 !important;
+}
+
+.lang_prog:hover::before {
+	width: 100%;
+}
+
+/* End the btn animation */
+
+/* start animate the link and title inside the box of projects */
+
+.project-link {
+	position: relative;
+}
+
+.project-link::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: -1px;
+	height: 2px;
+	background-color: #5b5c60;
+	transition: width 0.3s;
+}
+
+.project-link:hover::after {
+	width: 100%;
+}
+
+.arrow-up-right {
+	vertical-align: middle;
+	margin-left: -7px;
+	transition: transform 0.3s;
+}
+
+.project-link:hover .arrow-up-right {
+	transform: translateX(5px) rotate(45deg);
+}
+
+/*  End the animation*/
