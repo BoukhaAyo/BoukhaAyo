@@ -19,6 +19,26 @@ body {
   background-color: var(--bg-color) !important;
 }
 
+
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+
+  .navbar-nav,
+  .wrapper {
+    text-align: center !important;
+    padding: 0px;
+  }
+
+  .welcome {
+    font-size: 90px;
+  }
+
+  .card-body .card-text {
+    font-size: 17px;
+    text-align: center;
+  }
+}
+
 .navbar-nav .active {
   background-color: #212121;
   padding: 0px 20px;

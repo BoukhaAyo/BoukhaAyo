@@ -3,6 +3,21 @@
 	--main-back-color: #7f828c12;
 }
 
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+
+	.navbar-nav,
+	.wrapper,
+	.projects {
+		text-align: center !important;
+		padding: 0px;
+	}
+
+	.projects img {
+		margin-bottom: 11px;
+	}
+}
+
 .projects {
 	background: #5b5c601a;
 	width: 88%;
