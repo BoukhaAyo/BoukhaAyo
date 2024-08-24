@@ -18,6 +18,13 @@
 	}
 }
 
+.mainCard .card-body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
 .projects {
 	background: #5b5c601a;
 	width: 88%;
