@@ -23,6 +23,10 @@
 	.projects img {
 		margin-bottom: 11px;
 	}
+
+	.firstCard .nav-item {
+		padding: 0px 120px !important;
+	}
 }
 
 .projects {

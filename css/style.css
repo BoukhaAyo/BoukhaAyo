@@ -95,7 +95,7 @@ body {
 
 .firstCard .nav-item {
   transition: 0.3s linear;
-  padding: 0px 150px !important;
+  padding: 0px 20px !important;
 }
 
 .firstCard .nav-item:hover {
