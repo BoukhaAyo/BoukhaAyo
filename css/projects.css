@@ -6,6 +6,13 @@
 /* Styles for mobile devices */
 @media (max-width: 767px) {
 
+	.mainCard .card-body {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
 	.navbar-nav,
 	.wrapper,
 	.projects {
@@ -16,13 +23,6 @@
 	.projects img {
 		margin-bottom: 11px;
 	}
-}
-
-.mainCard .card-body {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
 }
 
 .projects {
