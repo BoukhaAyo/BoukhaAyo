@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, Laravel, PHP, Javascript, Python**
 
 - 📫 How to reach me: **ayb.boukhatem@gmail.com**
-- <p>Profile Link:</p> <a href="https://boukhaayo.github.io/BoukhaAyo"> Click Here </a>
+- Portfolio Link: **<a href="https://boukhaayo.github.io/BoukhaAyo"> Click Here </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
